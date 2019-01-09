@@ -1,6 +1,6 @@
 # api
 
-> API for WISL CRUD services
+> API for backend CRUD services
 
 ## About
 
